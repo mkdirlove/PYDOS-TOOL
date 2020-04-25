@@ -1,12 +1,12 @@
- A script for using socks4/5 proxies to attack http servers.
+## WARNING!! PLEASE DON'T ATTACK GOVERNMENT WEBSITES
+## A script for using socks4/5 proxies to attack http servers.
+## I removed the mixed proxies flood because in my perspective, it doesn't give more performance when flooding.
 
- I removed the mixed proxies flood because in my perspective, it doesn't give more performance when flooding.
-
- Features:
+## Features:
 - [x] CC mode
 - [x] Client IP(only get mode)
 
- Info:
+## Informations:
 - [x] Using Python3
 - [x] Added more human-like options
 - [x] Http Get  Flood
@@ -23,7 +23,7 @@
 - [x] Removed mixed proxies flood
 - [x] Added proxies mode selection
 
-## Install
+## Installation
 
     $ pip3 install requests pysocks
     $ git clone https://github.com/mkdirlove/PYDOS-TOOL
