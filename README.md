@@ -22,7 +22,6 @@
 - [x] Random Http Useragent
 - [x] Removed mixed proxies flood
 - [x] Added proxies mode selection
-- [x] Still Improving Project
 
 ## Install
 
@@ -32,4 +31,4 @@
 
 ## Usage
 
-    python3 pydos-tool.py
+    $ python3 pydos-tool.py
