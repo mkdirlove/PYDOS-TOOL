@@ -1,17 +1,22 @@
     ____        ____                 ______            __
+    
    / __ \__  __/ __ \____  _____    /_  __/___  ____  / /
+  
   / /_/ / / / / / / / __ \/ ___/_____/ / / __ \/ __ \/ /
+ 
  / ____/ /_/ / /_/ / /_/ (__  )_____/ / / /_/ / /_/ / /
+
 /_/    \__, /_____/\____/____/     /_/  \____/\____/_/
-      /____/
+
+     /____/
 
  A script for using socks4/5 proxies to attack http servers.
 
  I removed the mixed proxies flood because in my perspective, it doesn't give more performance when flooding.
 
- News:
-- [x] Improved CC mode
-- [x] Random Client IP(only get mode)
+ Features:
+- [x] CC mode
+- [x] Client IP(only get mode)
 
  Info:
 - [x] Using Python3
