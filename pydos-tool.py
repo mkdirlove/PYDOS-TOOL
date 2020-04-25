@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 
 #Coded by Jayson San Buenaventura
-#Github : https://github.com/mkdirlove
+#Github : https://github.com/mkdirlove/PYDOS-TOOL
 
 #########################################
 # I removed the mixed proxies flood     #
@@ -23,6 +23,7 @@ import urllib.request
 os.system("echo WARNING: PLEASE DONT ATTACK GOVERNMENT WEBSITES. | lolcat")
 os.system("echo THIS TOOL IS FOR EDUCATIONAL PURPOSE ONLY. | lolcat")
 os.system("sleep 2")
+os.system("clear")
 print ('''
     ____        ____                 ______            __
    / __ \__  __/ __ \____  _____    /_  __/___  ____  / /
