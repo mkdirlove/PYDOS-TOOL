@@ -1,15 +1,3 @@
-    ____        ____                 ______            __
-    
-   / __ \__  __/ __ \____  _____    /_  __/___  ____  / /
-  
-  / /_/ / / / / / / / __ \/ ___/_____/ / / __ \/ __ \/ /
- 
- / ____/ /_/ / /_/ / /_/ (__  )_____/ / / /_/ / /_/ / /
-
-/_/    \__, /_____/\____/____/     /_/  \____/\____/_/
-
-     /____/
-
  A script for using socks4/5 proxies to attack http servers.
 
  I removed the mixed proxies flood because in my perspective, it doesn't give more performance when flooding.
